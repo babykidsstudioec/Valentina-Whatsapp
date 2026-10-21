@@ -165,7 +165,7 @@
 
   /* Confirmación directa por WhatsApp */
   const phone = String(cfg.whatsapp || '').replace(/\D/g, '');
-  const message = String(cfg.mensajeWhatsApp || `¡Hola! Confirmo mi asistencia al cumpleaños de ${cfg.nombre || 'Valentina'}. Mi nombre es: ____. Asistiremos: ____ personas.`);
+  const message = String(cfg.mensajeWhatsApp || '¡Hola, Valentina! 💖 Con mucha alegría confirmo mi asistencia a tu cumpleaños. Será un gusto acompañarte y compartir contigo este día tan especial. ¡Gracias por invitarme! ✨');
   const confirmButton = $('confirm-button');
   if (/^[1-9]\d{7,14}$/.test(phone)) {
     confirmButton.href = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;

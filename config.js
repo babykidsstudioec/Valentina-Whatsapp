@@ -10,5 +10,5 @@ window.BABYKIDS_CONFIG = {
   maxAsistentes: 4,
   // Número internacional, sin signo + ni espacios.
   whatsapp: '593997833786',
-  mensajeWhatsApp: '¡Hola! Confirmo mi asistencia al cumpleaños de Valentina. Mi nombre es: ____. Asistiremos: ____ personas (máximo 4).'
+  mensajeWhatsApp: '¡Hola, Valentina! 💖 Con mucha alegría confirmo mi asistencia a tu cumpleaños. Será un gusto acompañarte y compartir contigo este día tan especial. ¡Gracias por invitarme! ✨'
 };
