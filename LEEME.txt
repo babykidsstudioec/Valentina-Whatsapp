@@ -1,0 +1,9 @@
+INVITACIÓN VALENTINA — CONFIRMACIÓN POR WHATSAPP
+
+1. Extrae todo el ZIP.
+2. Abre la carpeta completa en Visual Studio Code y ejecuta index.html con Live Server, o abre index.html en tu navegador.
+3. Para GitHub, sube el contenido de esta carpeta, conservando la carpeta assets.
+4. WhatsApp configurado: +593 99 783 3786. Puedes cambiarlo y editar el mensaje en config.js.
+5. El invitado pulsa el botón, completa el mensaje en WhatsApp y lo envía. No hay formulario ni registro en Google Sheets.
+
+Se conserva la música suministrada en los archivos adjuntos.
